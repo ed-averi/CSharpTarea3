@@ -1,0 +1,16 @@
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.csproj.AssemblyReference.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.AssemblyInfoInputs.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.AssemblyInfo.cs
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.csproj.CoreCompileInputs.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\bin\Debug\net5.0\CSharpTarea3.exe
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\bin\Debug\net5.0\CSharpTarea3.deps.json
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\bin\Debug\net5.0\CSharpTarea3.runtimeconfig.json
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\bin\Debug\net5.0\CSharpTarea3.runtimeconfig.dev.json
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\bin\Debug\net5.0\CSharpTarea3.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\bin\Debug\net5.0\CSharpTarea3.pdb
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\refint\CSharpTarea3.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.pdb
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\CSharpTarea3.genruntimeconfig.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea3\CSharpTarea3\obj\Debug\net5.0\ref\CSharpTarea3.dll
